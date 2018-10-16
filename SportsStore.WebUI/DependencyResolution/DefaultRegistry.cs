@@ -24,6 +24,7 @@ namespace SportsStore.WebUI.DependencyResolution {
 	
     public class DefaultRegistry : Registry {
         #region Constructors and Destructors
+        //Register Items here
 
         public DefaultRegistry() {
             Scan(
